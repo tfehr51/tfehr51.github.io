@@ -1,0 +1,81 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     width: 800px;
+     height: 100%;
+     color: white;
+  }
+  header {
+      background-color: #0e5ab1;
+      padding: 50px;
+      border: 10px solid #000000;
+      font-size: 30px;
+      display: block;
+      margin-bottom: 50px;
+  }
+  nav {
+      float: right;
+      width: 100%;
+      color:white;
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+      color:white;
+  }
+  nav li {
+      float: center;
+      color:white;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+      color:white;
+  }
+  a {
+    
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: center;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:
+      color:
+      clear: both;
+      display: block;
+  }
+  body {
+      background: url(drought.jpg);
+      height: 300px;
+      width: 300px;
+      }
+  .darken{
+      background:
+      linear-gradient(
+          rgba(0,0,0,0.5),
+          rgba(0,0,0,0.5)
+      ),
+      url(drought.jpg);
+  }
